@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf39a55b-45eb-477c-b92d-399cb73d5e3a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/about.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/departments-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/departments-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/departments-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/departments-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/departments-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/departments-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/departments-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/departments-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-8.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/91891/OneDrive/Documents/GitHub/VisionCare-AI/assets/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/91891/OneDrive/Documents/GitHub/VisionCare-AI/assets/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\91891\OneDrive\Documents\GitHub\VisionCare-AI\assets\img" />
@@ -73,6 +86,8 @@
       <workItem from="1731920016059" duration="20000" />
       <workItem from="1731930675633" duration="1125000" />
       <workItem from="1731941611762" duration="3187000" />
+      <workItem from="1731948688650" duration="124000" />
+      <workItem from="1731990864254" duration="1228000" />
     </task>
     <servers />
   </component>
